@@ -1,0 +1,16 @@
+
+WE ./textures/barrel.xpm
+F 255,0,0
+NO ./textures/red.xpm
+SO ./textures/purplestone.xpm     
+EA ./textures/chest.xpm
+C 255,0,0
+
+111    
+1001
+101
+101
+101
+101
+1N1
+111
