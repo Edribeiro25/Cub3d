@@ -7,7 +7,10 @@ Le projet contient un Makefile il faut juste utiliser la commande make dans le d
 Utilisation : 
 ./cub3d ./Pathtothemap
 
-Crédits : 
+Crédits :
+
 Pour un raycasting simple
+
 Part1 : https://www.youtube.com/watch?v=gYRrGTC7GtA
+
 Part2 : https://www.youtube.com/watch?v=PC1RaETIx3Y
